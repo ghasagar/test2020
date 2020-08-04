@@ -1,12 +1,1077 @@
-[
-      { id: 11, name: 'Dr Nice' },
-      { id: 12, name: 'Narco' },
-      { id: 13, name: 'Bombasto' },
-      { id: 14, name: 'Celeritas' },
-      { id: 15, name: 'Magneta' },
-      { id: 16, name: 'RubberMan' },
-      { id: 17, name: 'Dynama' },
-      { id: 18, name: 'Dr IQ' },
-      { id: 19, name: 'Magma' },
-      { id: 20, name: 'Tornado' }
+{
+"total": 38,
+"results": [
+{
+"package": {
+"name": "@angular/router",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - the routing library",
+"keywords": [
+"angular",
+"router"
+],
+"date": "2020-07-30T23:45:33.623Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Frouter",
+"homepage": "https://github.com/angular/angular/tree/master/packages/router",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
 ]
+},
+"score": {
+"final": 0.8026046399482353,
+"detail": {
+"quality": 0.9119930025384649,
+"popularity": 0.7771221119506543,
+"maintenance": 0.7343257142970481
+}
+},
+"searchScore": 0.50974464
+},
+{
+"package": {
+"name": "@angular/core",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - the core framework",
+"date": "2020-07-30T23:47:17.187Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fcore",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7917749752727332,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.798576439462227,
+"maintenance": 0.7343534267049396
+}
+},
+"searchScore": 0.4588204
+},
+{
+"package": {
+"name": "@angular/common",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - commonly needed directives and services",
+"date": "2020-07-30T23:48:08.050Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fcommon",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7880524679875631,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.7877826429289118,
+"maintenance": 0.734511488137769
+}
+},
+"searchScore": 0.42249933
+},
+{
+"package": {
+"name": "@angular/forms",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - directives and services for creating forms",
+"date": "2020-07-30T23:46:50.214Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fforms",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7855443696121988,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.7808024214114486,
+"maintenance": 0.7343257142970481
+}
+},
+"searchScore": 0.39987892
+},
+{
+"package": {
+"name": "@angular/animations",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - animations integration with web-animations",
+"date": "2020-07-30T23:48:28.679Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fanimations",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7803898040862995,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.7660751589927036,
+"maintenance": 0.7343256466417953
+}
+},
+"searchScore": 0.3564798
+},
+{
+"package": {
+"name": "@angular/cdk",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Angular Material Component Development Kit",
+"keywords": [
+"angular",
+"cdk",
+"component",
+"development",
+"kit"
+],
+"date": "2020-08-03T20:08:50.547Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fcdk",
+"homepage": "https://github.com/angular/components#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7830315643278571,
+"detail": {
+"quality": 0.8517440279707823,
+"popularity": 0.6596691381657297,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.27269605
+},
+{
+"package": {
+"name": "@angular/material",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Angular Material",
+"keywords": [
+"angular",
+"material",
+"material design",
+"components"
+],
+"date": "2020-08-03T20:09:08.241Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fmaterial",
+"homepage": "https://github.com/angular/components#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7766706029545992,
+"detail": {
+"quality": 0.8607324104488566,
+"popularity": 0.6337906349752149,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.23087892
+},
+{
+"package": {
+"name": "@angular/cli",
+"scope": "angular",
+"version": "10.0.5",
+"description": "CLI tool for Angular",
+"keywords": [
+"angular",
+"Angular CLI",
+"devkit",
+"sdk",
+"Angular DevKit",
+"angular-cli"
+],
+"date": "2020-07-31T20:24:50.593Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fcli",
+"homepage": "https://github.com/angular/angular-cli",
+"repository": "https://github.com/angular/angular-cli",
+"bugs": "https://github.com/angular/angular-cli/issues"
+},
+"author": {
+"name": "Angular Authors"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "angular-cli",
+"email": "hansl@google.com"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7737298206817587,
+"detail": {
+"quality": 0.6813518694492954,
+"popularity": 0.6352713756480673,
+"maintenance": 0.9913693667718473
+}
+},
+"searchScore": 0.21246135
+},
+{
+"package": {
+"name": "@angular/flex-layout",
+"scope": "angular",
+"version": "10.0.0-beta.32",
+"description": "Angular Flex-Layout",
+"keywords": [
+"angular",
+"flex-layout",
+"flexbox css",
+"media query",
+"breakpoints"
+],
+"date": "2020-06-16T20:12:40.440Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fflex-layout",
+"homepage": "https://github.com/angular/flex-layout#readme",
+"repository": "https://github.com/angular/flex-layout",
+"bugs": "https://github.com/angular/flex-layout/issues"
+},
+"publisher": {
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "angular-core+npm@google.com"
+}
+]
+},
+"score": {
+"final": 0.7667702793774347,
+"detail": {
+"quality": 0.8607324104488566,
+"popularity": 0.4614665119089497,
+"maintenance": 0.9915350773561296
+}
+},
+"searchScore": 0.11827397
+},
+{
+"package": {
+"name": "@angular/compiler-cli",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - the compiler CLI for Node.js",
+"keywords": [
+"angular",
+"compiler"
+],
+"date": "2020-07-30T23:47:36.067Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fcompiler-cli",
+"homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7072053546036514,
+"detail": {
+"quality": 0.7050015638671251,
+"popularity": 0.6819740260539585,
+"maintenance": 0.7343256466417953
+}
+},
+"searchScore": 0.089205846
+},
+{
+"package": {
+"name": "@angular/platform-server",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - library for using Angular in Node.js",
+"date": "2020-07-30T23:46:00.668Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fplatform-server",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7160689683543329,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.5823012785212061,
+"maintenance": 0.7343257107362453
+}
+},
+"searchScore": 0.07777975
+},
+{
+"package": {
+"name": "@angular/material-moment-adapter",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Angular Material Moment Adapter",
+"date": "2020-08-03T20:09:39.601Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fmaterial-moment-adapter",
+"homepage": "https://github.com/angular/components#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.7230298513139659,
+"detail": {
+"quality": 0.8607324104488566,
+"popularity": 0.4805313445734056,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.06288493
+},
+{
+"package": {
+"name": "@angular/fire",
+"scope": "angular",
+"version": "6.0.2",
+"description": "The official library for Firebase and Angular",
+"keywords": [
+"angular",
+"firebase",
+"rxjs",
+"angularfire",
+"angularfire2"
+],
+"date": "2020-06-24T20:52:39.439Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Ffire",
+"homepage": "https://github.com/angular/angularfire2#readme",
+"repository": "https://github.com/angular/angularfire2",
+"bugs": "https://github.com/angular/angularfire2/issues"
+},
+"author": {
+"name": "angular,firebase"
+},
+"publisher": {
+"username": "angularfire2",
+"email": "angularfire-maintainers@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "angularfire2",
+"email": "angularfire-maintainers@google.com"
+}
+]
+},
+"score": {
+"final": 0.7212016142150585,
+"detail": {
+"quality": 0.792915655183724,
+"popularity": 0.38413724209982947,
+"maintenance": 0.9967968083571459
+}
+},
+"searchScore": 0.04365133
+},
+{
+"package": {
+"name": "@angular/upgrade",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - the library for easing update from v1 to v2",
+"date": "2020-07-30T23:45:10.984Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fupgrade",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6927890028878416,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.515759375505394,
+"maintenance": 0.7343534267049396
+}
+},
+"searchScore": 0.042842656
+},
+{
+"package": {
+"name": "@angular/elements",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - library for using Angular Components as Custom Elements",
+"date": "2020-07-30T23:46:59.742Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Felements",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6902441713870571,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.5085162084234393,
+"maintenance": 0.7343256466417953
+}
+},
+"searchScore": 0.040077776
+},
+{
+"package": {
+"name": "@angular/service-worker",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - service worker tooling!",
+"date": "2020-07-30T23:45:21.564Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fservice-worker",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "angularcore",
+"email": "angular-core+npm@google.com"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6880209581194151,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.5021641064214412,
+"maintenance": 0.7343257107362453
+}
+},
+"searchScore": 0.037795417
+},
+{
+"package": {
+"name": "@angular/localize",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - library for localizing messages",
+"date": "2020-07-30T23:46:29.501Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Flocalize",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6744416329626662,
+"detail": {
+"quality": 0.790326132460897,
+"popularity": 0.5152279841906039,
+"maintenance": 0.7343257107362453
+}
+},
+"searchScore": 0.030853672
+},
+{
+"package": {
+"name": "@angular/google-maps",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Angular Google Maps",
+"keywords": [
+"angular",
+"components",
+"google-maps"
+],
+"date": "2020-08-03T20:09:13.089Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fgoogle-maps",
+"homepage": "https://github.com/angular/components/tree/master/src/google-maps#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6944381447493473,
+"detail": {
+"quality": 0.9218936726065717,
+"popularity": 0.34641681539645364,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.025284586
+},
+{
+"package": {
+"name": "@angular/cdk-experimental",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Experimental components for Angular CDK",
+"date": "2020-08-03T20:09:26.203Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fcdk-experimental",
+"homepage": "https://github.com/angular/components#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6881997276777863,
+"detail": {
+"quality": 0.9051958986050203,
+"popularity": 0.34290514433618047,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.022298519
+},
+{
+"package": {
+"name": "@angular/pwa",
+"scope": "angular",
+"version": "0.1000.4",
+"description": "PWA schematics for Angular",
+"keywords": [
+"angular",
+"Angular CLI",
+"devkit",
+"sdk",
+"Angular DevKit",
+"blueprints",
+"code generation",
+"schematics"
+],
+"date": "2020-07-22T20:21:31.595Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fpwa",
+"homepage": "https://github.com/angular/angular-cli",
+"repository": "https://github.com/angular/angular-cli",
+"bugs": "https://github.com/angular/angular-cli/issues"
+},
+"author": {
+"name": "Angular Authors"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"flags": {
+"unstable": true
+},
+"score": {
+"final": 0.6718605656621693,
+"detail": {
+"quality": 0.6209708670685317,
+"popularity": 0.3958677627444909,
+"maintenance": 0.9914731102315373
+}
+},
+"searchScore": 0.018539485
+},
+{
+"package": {
+"name": "@angular/material-experimental",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Experimental components for Angular Material",
+"date": "2020-08-03T20:09:35.187Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fmaterial-experimental",
+"homepage": "https://github.com/angular/components#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6806691168453939,
+"detail": {
+"quality": 0.9218936726065717,
+"popularity": 0.3070767356708725,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.017287156
+},
+{
+"package": {
+"name": "@angular/youtube-player",
+"scope": "angular",
+"version": "10.1.2",
+"description": "Angular YouTube Player",
+"keywords": [
+"angular",
+"components",
+"youtube"
+],
+"date": "2020-08-03T20:09:18.416Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fyoutube-player",
+"homepage": "https://github.com/angular/components/tree/master/src/youtube-player#readme",
+"repository": "https://github.com/angular/components",
+"bugs": "https://github.com/angular/components/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6755397458912007,
+"detail": {
+"quality": 0.9129052901284974,
+"popularity": 0.3001257179258128,
+"maintenance": 0.8474975930817631
+}
+},
+"searchScore": 0.015341617
+},
+{
+"package": {
+"name": "@angular/platform-webworker",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - library for using Angular in a web browser with web workers",
+"date": "2020-07-30T23:45:51.990Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fplatform-webworker",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6318806333435776,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.34157681009244967,
+"maintenance": 0.7345120791342722
+}
+},
+"searchScore": 0.007842721
+},
+{
+"package": {
+"name": "@angular/platform-webworker-dynamic",
+"scope": "angular",
+"version": "10.0.7",
+"description": "Angular - library for using Angular in a web browser with web workers",
+"date": "2020-07-30T23:45:42.170Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fplatform-webworker-dynamic",
+"homepage": "https://github.com/angular/angular#readme",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"author": {
+"name": "angular"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"score": {
+"final": 0.6305326424889705,
+"detail": {
+"quality": 0.8508317403807498,
+"popularity": 0.3378840600800476,
+"maintenance": 0.7343534267049396
+}
+},
+"searchScore": 0.0075390604
+},
+{
+"package": {
+"name": "@angular/benchpress",
+"scope": "angular",
+"version": "0.2.1",
+"description": "Benchpress - a framework for e2e performance tests",
+"keywords": [
+"angular",
+"benchmarks"
+],
+"date": "2020-06-25T21:34:23.794Z",
+"links": {
+"npm": "https://www.npmjs.com/package/%40angular%2Fbenchpress",
+"homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli",
+"repository": "https://github.com/angular/angular",
+"bugs": "https://github.com/angular/angular/issues"
+},
+"publisher": {
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+},
+"maintainers": [
+{
+"username": "angular",
+"email": "devops+npm@angular.io"
+},
+{
+"username": "google-wombot",
+"email": "node-team-npm+wombot@google.com"
+}
+]
+},
+"flags": {
+"unstable": true
+},
+"score": {
+"final": 0.5878819212986064,
+"detail": {
+"quality": 0.8174497428203661,
+"popularity": 0.30189501163927035,
+"maintenance": 0.67709641251072
+}
+},
+"searchScore": 0.002799078
+}
+]
+}
